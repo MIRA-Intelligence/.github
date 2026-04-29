@@ -1,6 +1,9 @@
-# MIRA
+<div align="center">
+  <img src="./mira_logo.png" alt="MIRA" width="600">
+  <br>
+</div>
 
-Open-source AI agent tooling for long-running research work.
+**MIRA** is an open-source AI agent tooling for long-running research work.
 
 MIRA helps you go from **idea -> experiments -> report** in one workflow. It is built for project-based research, not one-off chat, so every run leaves behind traceable artifacts such as workspace files, experiment outputs, and `task_plan.json`.
 
