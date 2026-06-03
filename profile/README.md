@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mira_logo.png" alt="MIRA" width="600">
+  <img src="./mira_logo2.png" alt="MIRA" width="600">
   <br>
 </div>
 
